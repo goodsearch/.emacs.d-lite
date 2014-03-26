@@ -87,6 +87,7 @@
      js2-mode
      js2-refactor
      jump-char
+     monokai-theme
      magit
      magit
      move-text
