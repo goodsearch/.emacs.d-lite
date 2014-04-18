@@ -3,3 +3,4 @@
 * TODO disable auto-complete, use alt-/ instead
 * TODO disable un-needed packages
 * TODO fix robe mode hook to activate corresponding ruby
+* TODO rebind command-shift-t to projectile toggle between implementation and test
