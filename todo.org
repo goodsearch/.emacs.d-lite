@@ -1,0 +1,5 @@
+* Fixes to emacs
+* TODO fix alt-delete on ido smex
+* TODO disable auto-complete, use alt-/ instead
+* TODO disable un-needed packages
+* TODO fix robe mode hook to activate corresponding ruby
