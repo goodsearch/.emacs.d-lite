@@ -107,6 +107,7 @@
      restclient
      rinari
      rsense
+     rspec-mode
      rvm 
      s
      simple-httpd
