@@ -1,1 +1,1 @@
-(global-set-key (kbd "s-T") 'rinari-find-rspec)
+(global-set-key (kbd "s-T") 'projectile-toggle-between-implementation-and-test)
